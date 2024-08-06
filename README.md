@@ -2,7 +2,7 @@
 
 This is a portfolio created with SQL using the entity-relationship methodology for database creation.
 
-## Author -
+## Author 
 ** Brayan Campos**
 
 * [LinkedIn] (https://www.linkedin.com/in/braycampos/)
