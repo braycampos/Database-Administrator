@@ -3,13 +3,13 @@
 This is a portfolio created with SQL using the entity-relationship methodology for database creation.
 
 ## Author 
-** Brayan Campos**
+**Brayan Campos**
 
-* [LinkedIn] (https://www.linkedin.com/in/braycampos/)
+* [LinkedIn](https://www.linkedin.com/in/braycampos/)
 
 
 ## Live Example
-- [ENLACEGITHUBPAGES] {ENLACEGITHUBPAGES}
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Installation
 This project does not require installation. Simply open the folder or click on the SQL file.
