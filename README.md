@@ -9,7 +9,7 @@ This is a portfolio created with SQL using the entity-relationship methodology f
 
 
 ## Live Example
-- [Database-Administrator](https://github.com/braycampos/Database-Administrator)
+* [Database-Administrator](https://github.com/braycampos/Database-Administrator)
 
 ## Installation
 This project does not require installation. Simply open the folder or click on the SQL file.
