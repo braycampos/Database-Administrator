@@ -7,9 +7,8 @@ This is a portfolio created with SQL using the entity-relationship methodology f
 
 * [LinkedIn](https://www.linkedin.com/in/braycampos/)
 
-
 ## Live Example
-* [Database-Administrator](https://github.com/braycampos/Database-Administrator)
+* [https://github.com/braycampos/Database-Administrator](https://braycampos.github.io/Database-Administrator/)
 
 ## Installation
 This project does not require installation. Simply open the folder or click on the SQL file.
